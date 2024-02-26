@@ -1,0 +1,16 @@
+PODS:
+  - YYTextFix (0.1.0)
+
+DEPENDENCIES:
+  - YYTextFix (from `../`)
+
+EXTERNAL SOURCES:
+  YYTextFix:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YYTextFix: 34c0ad77e2f94a334add2dcd9a6b3cf3dc3a04dc
+
+PODFILE CHECKSUM: 105065e32f2d11f1222ed4a5a72698cfdaaa8dc4
+
+COCOAPODS: 1.11.3

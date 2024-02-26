@@ -1,0 +1,6 @@
+framework module YYTextFix {
+  umbrella header "YYTextFix-umbrella.h"
+
+  export *
+  module * { export * }
+}
