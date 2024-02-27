@@ -7,6 +7,7 @@
 //
 
 #import "YYViewController.h"
+#import <YYTextFix/YYText.h>
 
 @interface YYViewController ()
 
@@ -18,6 +19,11 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+}
+
+- (void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event {
+    YYLabel *lb = [YYLabel new];
+    [self.view addSubview:lb];
 }
 
 - (void)didReceiveMemoryWarning
