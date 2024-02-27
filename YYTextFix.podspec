@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'YYTextFix'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = 'YYTextFix框架其实就是YYText，只不过YYText框架不更新了，为了修复和自己使用YYText方便，所以上传了这个YYTextFix。'
 
 # This description is used to generate tags and improve search results.
@@ -27,8 +27,8 @@ Pod::Spec.new do |s|
   s.author           = { 'Mr Xie' => '821385843@qq.com' }
   s.source           = { :git => 'https://github.com/821385843/YYTextFix.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
-  s.platform     = :ios, '6.0'
-  s.ios.deployment_target = '6.0'
+  s.platform     = :ios, '11.0'
+  s.ios.deployment_target = '11.0'
   
   s.requires_arc = true
   s.source_files = 'YYTextFix/Classes/**/*'
