@@ -23,10 +23,8 @@ YYText 被许可在 MIT 协议下使用。查阅 LICENSE 文件来获得更多�
 
 ## 作者其他框架
 
-[MGJRouter_Swift](https://github.com/821385843/MGJRouter_Swift)：一个高效/灵活的 iOS Swift 版 URL Router，完全实现了蘑菇街 Object-C 版 MGJRouter 的所有功能。虽然 github 上也有一款参照 MGJRouter 仿写的 Swift 版框架，但是却去掉了 MGJRouter 的很多功能，不实用。
-
-[XWSwiftLoader](https://github.com/821385843/XWSwiftLoader)：Swift环境中`+ (void)load;`与`+ (void)initialize;`的实现。
-
+[MGJRouter_Swift](https://github.com/821385843/MGJRouter_Swift)：一个高效/灵活的 iOS Swift 版 URL Router，完全实现了蘑菇街 Object-C 版 MGJRouter 的所有功能。虽然 github 上也有一款参照 MGJRouter 仿写的 Swift 版框架，但是却去掉了 MGJRouter 的很多功能，不实用。<br/>
+[XWSwiftLoader](https://github.com/821385843/XWSwiftLoader)：Swift环境中`+ (void)load;`与`+ (void)initialize;`的实现。<br/>
 [RSA_Swift](https://github.com/821385843/RSA_Swift)：这是一个 `Swift` 版本轻量级的框架，框架功能包括：`RSA` 加密/解密字符串、`RSA` 加密/解密 `Data`、字符串的 `MD5`、文件的 `MD5` 值的获取。
 
 ## Author
