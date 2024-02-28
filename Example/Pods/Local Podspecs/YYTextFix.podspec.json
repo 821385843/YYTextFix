@@ -1,6 +1,6 @@
 {
   "name": "YYTextFix",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "YYTextFix框架其实就是YYText，只不过YYText框架不更新了，为了修复和自己使用YYText方便，所以上传了这个YYTextFix。",
   "description": "YYTextFix框架其实就是YYText，只不过YYText框架不更新了，为了修复和自己使用YYText方便，所以上传了这个YYTextFix。",
   "homepage": "https://github.com/ibireme/YYText",
@@ -13,10 +13,10 @@
   },
   "source": {
     "git": "https://github.com/821385843/YYTextFix.git",
-    "tag": "0.1.0"
+    "tag": "0.2.0"
   },
   "platforms": {
-    "ios": "6.0"
+    "ios": "11.0"
   },
   "requires_arc": true,
   "source_files": "YYTextFix/Classes/**/*",

@@ -108,7 +108,7 @@
 		1AF15DCE33C7CB110F684C9F010B46BA /* YYTextFix-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "YYTextFix-dummy.m"; sourceTree = "<group>"; };
 		1BB7AA92078A2ED41472808492BF2CD9 /* YYTextRubyAnnotation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = YYTextRubyAnnotation.m; sourceTree = "<group>"; };
 		25940B1EDD0FEC2A6ECEED970CFB6A6C /* YYTextUtilities.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = YYTextUtilities.h; sourceTree = "<group>"; };
-		271093B15DB46953E68456C4F0B3D2F6 /* YYTextFix.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = YYTextFix.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		271093B15DB46953E68456C4F0B3D2F6 /* YYTextFix */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = YYTextFix; path = YYTextFix.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2AD01B06497F82DD8847C8142B6CFD4B /* YYTextFix-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "YYTextFix-prefix.pch"; sourceTree = "<group>"; };
 		2D364786CCEC5BA7E759DF9FF3AB506F /* Pods-YYTextFix_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-YYTextFix_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		3015556D2908CA048E904CB50338CE6E /* NSParagraphStyle+YYText.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "NSParagraphStyle+YYText.m"; sourceTree = "<group>"; };
@@ -126,7 +126,7 @@
 		56A2177E9E8F7F1929F097CF2A1B824B /* YYLabel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = YYLabel.h; path = YYTextFix/Classes/YYLabel.h; sourceTree = "<group>"; };
 		575C61EEEC026154686F3D9E12B1D4D0 /* YYTextWeakProxy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = YYTextWeakProxy.m; sourceTree = "<group>"; };
 		5960C6DDA38F17AB94A16DB1662DD9CE /* NSParagraphStyle+YYText.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NSParagraphStyle+YYText.h"; sourceTree = "<group>"; };
-		5ADC19647D121ADE58DD39C38E42F358 /* YYTextFix.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = YYTextFix.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		5ADC19647D121ADE58DD39C38E42F358 /* YYTextFix.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = YYTextFix.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		60436642665452AFB932872275E2E876 /* YYTextFix.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = YYTextFix.debug.xcconfig; sourceTree = "<group>"; };
 		61319702F424F550B624F1BC7240ED96 /* Pods-YYTextFix_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-YYTextFix_Example-dummy.m"; sourceTree = "<group>"; };
 		644D3A8431D954B1240A4C91559F33AE /* YYTextSelectionView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = YYTextSelectionView.m; sourceTree = "<group>"; };
@@ -137,7 +137,7 @@
 		6BC13D36C3DD8BDB0A416411FA24634C /* Pods-YYTextFix_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-YYTextFix_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		6C4D771BA1D2B2628881E0FB5C328CE3 /* YYTextLayout.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = YYTextLayout.h; sourceTree = "<group>"; };
 		7986602FF6E7B9AA344C56E5DA8132BA /* YYTextDebugOption.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = YYTextDebugOption.h; sourceTree = "<group>"; };
-		7B580311F4DACB9AE6CFA21151B95694 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		7B580311F4DACB9AE6CFA21151B95694 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		7D8CDA91310F406C43EC3DF5A5863F8E /* Accelerate.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Accelerate.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Accelerate.framework; sourceTree = DEVELOPER_DIR; };
 		7DF5078350D1474897DBB07823189926 /* Pods-YYTextFix_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-YYTextFix_Example.release.xcconfig"; sourceTree = "<group>"; };
 		83BF9EE29679C52AA4AE66E9D38AB40F /* CoreFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreFoundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/CoreFoundation.framework; sourceTree = DEVELOPER_DIR; };
@@ -147,7 +147,7 @@
 		9699AFCFC26B02AD38EA9F3B0C863E41 /* YYTextInput.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = YYTextInput.m; sourceTree = "<group>"; };
 		987730FB1EE2F7E7ED697639319C6ABB /* YYTextArchiver.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = YYTextArchiver.h; sourceTree = "<group>"; };
 		9BED5C32FF1D5816FD808F6FF96A7231 /* YYTextMagnifier.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = YYTextMagnifier.m; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9F3D3A02D9FB5DCAE4A2E23EAC4034D1 /* YYTextDebugOption.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = YYTextDebugOption.m; sourceTree = "<group>"; };
 		A1CABC8683D9CBA9DC9C7447B377FF57 /* YYTextLine.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = YYTextLine.h; sourceTree = "<group>"; };
 		A7D26CE4F1ADE57D9F3194DD452AF56E /* YYTextRubyAnnotation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = YYTextRubyAnnotation.h; sourceTree = "<group>"; };
@@ -169,7 +169,7 @@
 		E703CE3E16515E32D424963DF8E475B9 /* Pods-YYTextFix_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-YYTextFix_Example.modulemap"; sourceTree = "<group>"; };
 		EDFAAB06907EF561C561C49CC356D3F4 /* YYTextEffectWindow.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = YYTextEffectWindow.m; sourceTree = "<group>"; };
 		EF22D27DF9C52FE223CA7DFBAE37EAA4 /* Pods-YYTextFix_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-YYTextFix_Tests-dummy.m"; sourceTree = "<group>"; };
-		F0A23029B0CEBE4E17917D0F55F538E9 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		F0A23029B0CEBE4E17917D0F55F538E9 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		F192AB6598CA2F3E46D3D418EA72358F /* YYTextEffectWindow.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = YYTextEffectWindow.h; sourceTree = "<group>"; };
 		F3ED3CA1CF476E647A45F234E70540CD /* YYTextTransaction.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = YYTextTransaction.m; sourceTree = "<group>"; };
 		F4F7CEBC4D7B927A467B72E28AD3F476 /* NSAttributedString+YYText.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NSAttributedString+YYText.h"; sourceTree = "<group>"; };
@@ -320,7 +320,7 @@
 			children = (
 				AB3FAFED29EE525CDE28F541E038693B /* Pods-YYTextFix_Example */,
 				DB884767C2CEFABBC08EA147983FDBEC /* Pods-YYTextFix_Tests */,
-				271093B15DB46953E68456C4F0B3D2F6 /* YYTextFix.framework */,
+				271093B15DB46953E68456C4F0B3D2F6 /* YYTextFix */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -507,7 +507,7 @@
 			);
 			name = YYTextFix;
 			productName = YYTextFix;
-			productReference = 271093B15DB46953E68456C4F0B3D2F6 /* YYTextFix.framework */;
+			productReference = 271093B15DB46953E68456C4F0B3D2F6 /* YYTextFix */;
 			productType = "com.apple.product-type.framework";
 		};
 		CB6AE4D7B39E27F1890BC491D48CC07B /* Pods-YYTextFix_Example */ = {
@@ -649,37 +649,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		11C05B22E0FD26A5B3A3C096186B2D33 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 60436642665452AFB932872275E2E876 /* YYTextFix.debug.xcconfig */;
-			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/YYTextFix/YYTextFix-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/YYTextFix/YYTextFix-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/YYTextFix/YYTextFix.modulemap";
-				PRODUCT_MODULE_NAME = YYTextFix;
-				PRODUCT_NAME = YYTextFix;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
 		28AE5E77BFC8A88CB4F5F866DF640E74 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 6BC13D36C3DD8BDB0A416411FA24634C /* Pods-YYTextFix_Tests.debug.xcconfig */;
@@ -714,38 +683,6 @@
 			};
 			name = Debug;
 		};
-		42236090B0213073E6A2F247C2278B3A /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 056477A3EDA0F08004A068278ED28681 /* YYTextFix.release.xcconfig */;
-			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/YYTextFix/YYTextFix-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/YYTextFix/YYTextFix-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/YYTextFix/YYTextFix.modulemap";
-				PRODUCT_MODULE_NAME = YYTextFix;
-				PRODUCT_NAME = YYTextFix;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
 		4E870E7398EE20069BD1CC258F5E34D3 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 7DF5078350D1474897DBB07823189926 /* Pods-YYTextFix_Example.release.xcconfig */;
@@ -774,6 +711,39 @@
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		725370F83C33A1D0428A9733B8B74F5C /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 056477A3EDA0F08004A068278ED28681 /* YYTextFix.release.xcconfig */;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/YYTextFix/YYTextFix-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/YYTextFix/YYTextFix-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/YYTextFix/YYTextFix.modulemap";
+				PRODUCT_MODULE_NAME = YYTextFix;
+				PRODUCT_NAME = YYTextFix;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -836,7 +806,8 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
@@ -977,14 +948,46 @@
 			};
 			name = Debug;
 		};
+		D47605DB22066BDB2A86AEC9EDA7F782 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 60436642665452AFB932872275E2E876 /* YYTextFix.debug.xcconfig */;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/YYTextFix/YYTextFix-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/YYTextFix/YYTextFix-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/YYTextFix/YYTextFix.modulemap";
+				PRODUCT_MODULE_NAME = YYTextFix;
+				PRODUCT_NAME = YYTextFix;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
 		42CEF36346D66B683FDD4124A4E2DFB3 /* Build configuration list for PBXNativeTarget "YYTextFix" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				11C05B22E0FD26A5B3A3C096186B2D33 /* Debug */,
-				42236090B0213073E6A2F247C2278B3A /* Release */,
+				D47605DB22066BDB2A86AEC9EDA7F782 /* Debug */,
+				725370F83C33A1D0428A9733B8B74F5C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

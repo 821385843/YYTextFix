@@ -11,8 +11,8 @@
 
 #import <UIKit/UIKit.h>
 
-#if __has_include(<YYText/YYText.h>)
-#import <YYText/YYTextLayout.h>
+#if __has_include(<YYTextFix/YYText.h>)
+#import <YYTextFix/YYTextLayout.h>
 #else
 #import "YYTextLayout.h"
 #endif

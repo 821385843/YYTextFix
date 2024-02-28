@@ -1,5 +1,5 @@
 PODS:
-  - YYTextFix (0.1.0)
+  - YYTextFix (0.2.0)
 
 DEPENDENCIES:
   - YYTextFix (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  YYTextFix: 34c0ad77e2f94a334add2dcd9a6b3cf3dc3a04dc
+  YYTextFix: 75cbe8d9692793ba02781467324661a22f3b17d5
 
 PODFILE CHECKSUM: 8eed99248e888030d64740eb8ea12749a55ef9a7
 

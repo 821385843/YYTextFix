@@ -11,10 +11,10 @@
 
 #import <UIKit/UIKit.h>
 
-#if __has_include(<YYText/YYText.h>)
-#import <YYText/YYTextParser.h>
-#import <YYText/YYTextLayout.h>
-#import <YYText/YYTextAttribute.h>
+#if __has_include(<YYTextFix/YYText.h>)
+#import <YYTextFix/YYTextParser.h>
+#import <YYTextFix/YYTextLayout.h>
+#import <YYTextFix/YYTextAttribute.h>
 #else
 #import "YYTextParser.h"
 #import "YYTextLayout.h"

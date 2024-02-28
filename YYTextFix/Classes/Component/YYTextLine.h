@@ -12,8 +12,8 @@
 #import <UIKit/UIKit.h>
 #import <CoreText/CoreText.h>
 
-#if __has_include(<YYText/YYText.h>)
-#import <YYText/YYTextAttribute.h>
+#if __has_include(<YYTextFix/YYText.h>)
+#import <YYTextFix/YYTextAttribute.h>
 #else
 #import "YYTextAttribute.h"
 #endif
