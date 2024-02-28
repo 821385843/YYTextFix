@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'YYTextFix'
-  s.version          = '0.2.0'
+  s.version          = '1.0.0'
   s.summary          = 'YYTextFix框架其实就是YYText，只不过YYText框架不更新了，为了修复和自己使用YYText方便，所以上传了这个YYTextFix。'
 
 # This description is used to generate tags and improve search results.
